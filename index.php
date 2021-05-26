@@ -26,6 +26,7 @@ else
         <h1>Hi Andy!</h1>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
+	<img src="neon.jpg" alt="Goog day img">
     </section>
 
     <section class="instructions">
